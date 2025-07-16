@@ -11,18 +11,26 @@
 
 ## 🚀 Tech Stack
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
-![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
-![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
-![VS Code](https://img.shields.io/badge/-VS%20Code-333333?style=flat&logo=visual-studio-code)
 ![C#](https://img.shields.io/badge/-C%23-333333?style=flat&logo=c-sharp)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript)
-![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
-![.NET](https://img.shields.io/badge/-.NET-333333?style=flat&logo=dotnet)
+![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+
+
+![VS Code](https://img.shields.io/badge/-VS%20Code-333333?style=flat&logo=visual-studio-code)
 ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
 ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
+
+![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
+![Static Badge](https://img.shields.io/badge/-K8s-333333?style=flat&logo=kubernetes)
+
 ![FastAPI](https://img.shields.io/badge/-FastAPI-333333?style=flat&logo=fastapi)
+![.NET](https://img.shields.io/badge/-.NET-333333?style=flat&logo=dotnet)
+![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
 ![Next.js](https://img.shields.io/badge/-Next.js-333333?style=flat&logo=next.js)
+![Static Badge](https://img.shields.io/badge/-Blazor-333333?style=flat&logo=blazor)
+![Static Badge](https://img.shields.io/badge/-ASP.NET-333333?style=flat&logo=.NET)
+
+
 
 
 ## 💹 My Stats
