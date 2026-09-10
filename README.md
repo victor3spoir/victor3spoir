@@ -8,8 +8,6 @@
 I'm a Fullstack Engineer & DevOps practitioner, I'm also an Engineer in a renewables energies firm.
 (Yes, I have a renewable energy engineering background)
 
-* 🖥️ See my linktree at [linktree](https://linktree.victorespoir.com/)
-
 * 🖥️ See my portofilio at [portfolio](https://victorespoir.com/)
 
 * ✉️ Contact me at [email](victorespoir.dev@gmail.com)
